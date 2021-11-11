@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp1.DataBase">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.LeasingPark">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+      <NewMemberFileName>LeasingPark.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Order">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAgAAAAQAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+      <NewMemberFileName>Order.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Car">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAQAAAAAAAAMAAAAAAAAAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+      <NewMemberFileName>Car.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Customer">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+      <NewMemberFileName>Customer.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Person">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp1.Price">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+      <NewMemberFileName>Price.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
